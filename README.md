@@ -48,6 +48,8 @@ http://SERVER_IP:3000
 
 For Local
 http://localhost:3000/
+
+
 http://localhost:3000/secret  -----protected route using basic auth
 
 # Project URL
